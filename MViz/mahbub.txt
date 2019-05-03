@@ -1,0 +1,311 @@
+Thread[Thread-1,5,main] Beacon Parent -> 30    Beacon Voltage 17109  Beacon etx 2849 
+ Beacon Parent -> 30    Beacon Voltage 17144  Beacon etx 2825 
+ Beacon Parent -> 10    Beacon Voltage 12985  Beacon etx 2805 
+ Beacon Parent -> 30    Beacon Voltage 17116  Beacon etx 2815 
+ Beacon Parent -> 30    Beacon Voltage 17101  Beacon etx 2815 
+ Beacon Parent -> 10    Beacon Voltage 13021  Beacon etx 2773 
+ Beacon Parent -> 30    Beacon Voltage 17165  Beacon etx 2783 
+ Beacon Parent -> 10    Beacon Voltage 25421  Beacon etx 2831 
+
+@ CTP # No: 180 # Best 20 # BestVolt: 17165 # PathVolt: 16494 # BestEtx: 2783 # PathEtx: -1
+ Beacon Parent -> 10    Beacon Voltage 25389  Beacon etx 2819 
+ Beacon Parent -> 10    Beacon Voltage 25370  Beacon etx 2815 
+ Beacon Parent -> 10    Beacon Voltage 25416  Beacon etx 2811 
+ Beacon Parent -> 10    Beacon Voltage 25382  Beacon etx 2808 
+
+@ CTP # No: 200 # Best 20 # BestVolt: 17165 # PathVolt: 16494 # BestEtx: 2783 # PathEtx: -1
+ Beacon Parent -> 10    Beacon Voltage 25374  Beacon etx 2804 
+
+@ CTP # No: 220 # Best 20 # BestVolt: 17165 # PathVolt: 16494 # BestEtx: 2783 # PathEtx: -1
+ Beacon Parent -> 10    Beacon Voltage 25430  Beacon etx 3064 
+
+@ CTP # No: 240 # Best 20 # BestVolt: 17165 # PathVolt: 16494 # BestEtx: 2783 # PathEtx: -1
+ Beacon Parent -> 30    Beacon Voltage 29566  Beacon etx 3074 
+ Beacon Parent -> 10    Beacon Voltage 25417  Beacon etx 3037 
+ Beacon Parent -> 30    Beacon Voltage 29529  Beacon etx 3047 
+ Beacon Parent -> 10    Beacon Voltage -27727  Beacon etx 3264 
+ Beacon Parent -> 30    Beacon Voltage -23606  Beacon etx 3274 
+ Beacon Parent -> 30    Beacon Voltage -23615  Beacon etx 3274 
+ Beacon Parent -> 10    Beacon Voltage -27743  Beacon etx 3220 
+ Beacon Parent -> 10    Beacon Voltage -27735  Beacon etx 3220 
+
+@ CTP # No: 260 # Best 20 # BestVolt: -23615 # PathVolt: 16494 # BestEtx: 3274 # PathEtx: -1
+ Beacon Parent -> 10    Beacon Voltage -15387  Beacon etx 3379 
+
+@ CTP # No: 280 # Best 20 # BestVolt: -23615 # PathVolt: 16494 # BestEtx: 3274 # PathEtx: -1
+ Beacon Parent -> 10    Beacon Voltage -15394  Beacon etx 3431 
+ Beacon Parent -> 10    Beacon Voltage -15368  Beacon etx 3431 
+
+@ CTP # No: 300 # Best 20 # BestVolt: -23615 # PathVolt: 16494 # BestEtx: 3274 # PathEtx: -1
+ Beacon Parent -> 10    Beacon Voltage -15391  Beacon etx 3399 
+
+@ CTP # No: 320 # Best 20 # BestVolt: -23615 # PathVolt: 16494 # BestEtx: 3274 # PathEtx: -1
+ Beacon Parent -> 10    Beacon Voltage -15404  Beacon etx 3399 
+ Beacon Parent -> 30    Beacon Voltage -11279  Beacon etx 3409 
+ Beacon Parent -> 30    Beacon Voltage -11286  Beacon etx 3409 
+ Beacon Parent -> 30    Beacon Voltage -11282  Beacon etx 3409 
+ Beacon Parent -> 10    Beacon Voltage -3018  Beacon etx 3502 
+ Beacon Parent -> 30    Beacon Voltage 1126  Beacon etx 3512 
+ Beacon Parent -> 10    Beacon Voltage -3036  Beacon etx 3502 
+ Beacon Parent -> 30    Beacon Voltage 1095  Beacon etx 3512 
+ Beacon Parent -> 30    Beacon Voltage 1082  Beacon etx 3512 
+
+@ CTP # No: 340 # Best 20 # BestVolt: 1082 # PathVolt: 16494 # BestEtx: 3512 # PathEtx: -1
+ Beacon Parent -> 30    Beacon Voltage 1063  Beacon etx 3512 
+ Beacon Parent -> 30    Beacon Voltage 13519  Beacon etx 3595 
+ Beacon Parent -> 30    Beacon Voltage 13478  Beacon etx 3595 
+ Beacon Parent -> 10    Beacon Voltage 21746  Beacon etx 3655 
+ Beacon Parent -> 10    Beacon Voltage 21739  Beacon etx 3649 
+ Beacon Parent -> 30    Beacon Voltage 25866  Beacon etx 3659 
+ Beacon Parent -> 10    Beacon Voltage 21718  Beacon etx 3649 
+ Beacon Parent -> 30    Beacon Voltage 25825  Beacon etx 3659 
+ Beacon Parent -> 10    Beacon Voltage 21763  Beacon etx 3649 
+ Beacon Parent -> 30    Beacon Voltage 25866  Beacon etx 3659 
+ Beacon Parent -> 10    Beacon Voltage 21764  Beacon etx 3649 
+ Beacon Parent -> 30    Beacon Voltage 25884  Beacon etx 3659 
+
+@ CTP # No: 360 # Best 20 # BestVolt: 25884 # PathVolt: 16494 # BestEtx: 3659 # PathEtx: -1
+ Beacon Parent -> 10    Beacon Voltage -31431  Beacon etx 3689 
+ Beacon Parent -> 30    Beacon Voltage -27320  Beacon etx 3699 
+ Beacon Parent -> 500    Beacon Voltage 9  Beacon etx 0 
+ Beacon Parent -> 10    Beacon Voltage -31406  Beacon etx 3715 
+ Beacon Parent -> 10    Beacon Voltage -31381  Beacon etx 3715 
+ Beacon Parent -> 10    Beacon Voltage -31411  Beacon etx 3715 
+ Beacon Parent -> 30    Beacon Voltage -27291  Beacon etx 3725 
+
+@ CTP # No: 380 # Best 20 # BestVolt: -27291 # PathVolt: 16494 # BestEtx: 3725 # PathEtx: -1
+ Beacon Parent -> 10    Beacon Voltage -19055  Beacon etx 3767 
+ Beacon Parent -> 10    Beacon Voltage -19031  Beacon etx 3762 
+ Beacon Parent -> 10    Beacon Voltage -19034  Beacon etx 3762 
+ Beacon Parent -> 30    Beacon Voltage -14913  Beacon etx 3772 
+ Beacon Parent -> 30    Beacon Voltage -14895  Beacon etx 3772 
+ Beacon Parent -> 30    Beacon Voltage -14907  Beacon etx 3772 
+ Beacon Parent -> 30    Beacon Voltage -14911  Beacon etx 3772 
+ Beacon Parent -> 10    Beacon Voltage -6667  Beacon etx 3796 
+ Beacon Parent -> 10    Beacon Voltage -6679  Beacon etx 3796 
+ Beacon Parent -> 10    Beacon Voltage -6690  Beacon etx 3796 
+ Beacon Parent -> 30    Beacon Voltage -2594  Beacon etx 3806 
+ Beacon Parent -> 10    Beacon Voltage -6699  Beacon etx 3792 
+ Beacon Parent -> 30    Beacon Voltage -2555  Beacon etx 3802 
+ Beacon Parent -> 10    Beacon Voltage -6703  Beacon etx 3792 
+ Beacon Parent -> 30    Beacon Voltage -2600  Beacon etx 3802 
+ Beacon Parent -> 30    Beacon Voltage -2602  Beacon etx 3802 
+ Beacon Parent -> 30    Beacon Voltage -2561  Beacon etx 3802 
+
+@ CTP # No: 400 # Best 20 # BestVolt: -2561 # PathVolt: 16494 # BestEtx: 3802 # PathEtx: -1
+ Beacon Parent -> 30    Beacon Voltage -2608  Beacon etx 3802 
+ Beacon Parent -> 10    Beacon Voltage 5651  Beacon etx 3822 
+ Beacon Parent -> 10    Beacon Voltage 5647  Beacon etx 3822 
+ Beacon Parent -> 10    Beacon Voltage 5624  Beacon etx 3822 
+ Beacon Parent -> 10    Beacon Voltage 5672  Beacon etx 3822 
+ Beacon Parent -> 10    Beacon Voltage 5674  Beacon etx 3822 
+ Beacon Parent -> 10    Beacon Voltage 5666  Beacon etx 3822 
+ Beacon Parent -> 10    Beacon Voltage 5632  Beacon etx 3822 
+ Beacon Parent -> 30    Beacon Voltage 9732  Beacon etx 3832 
+ Beacon Parent -> 30    Beacon Voltage 9735  Beacon etx 3832 
+ Beacon Parent -> 30    Beacon Voltage 9758  Beacon etx 3832 
+ Beacon Parent -> 10    Beacon Voltage 5673  Beacon etx 3822 
+ Beacon Parent -> 10    Beacon Voltage 5649  Beacon etx 3822 
+ Beacon Parent -> 10    Beacon Voltage 5629  Beacon etx 3822 
+ Beacon Parent -> 10    Beacon Voltage 5631  Beacon etx 3822 
+ Beacon Parent -> 30    Beacon Voltage 9746  Beacon etx 3832 
+ Beacon Parent -> 30    Beacon Voltage 9743  Beacon etx 3832 
+ Beacon Parent -> 30    Beacon Voltage 9745  Beacon etx 3832 
+ Beacon Parent -> 30    Beacon Voltage 9765  Beacon etx 3832 
+ Beacon Parent -> 30    Beacon Voltage 9773  Beacon etx 3832 
+ Beacon Parent -> 30    Beacon Voltage 9758  Beacon etx 3832 
+ Beacon Parent -> 30    Beacon Voltage 9737  Beacon etx 3832 
+ Beacon Parent -> 30    Beacon Voltage 9726  Beacon etx 3832 
+ Beacon Parent -> 30    Beacon Voltage 9744  Beacon etx 3832 
+ Beacon Parent -> 30    Beacon Voltage 9764  Beacon etx 3832 
+ Beacon Parent -> 30    Beacon Voltage 9768  Beacon etx 3832 
+ Beacon Parent -> 30    Beacon Voltage 9754  Beacon etx 3832 
+ Beacon Parent -> 30    Beacon Voltage 9728  Beacon etx 3832 
+ Beacon Parent -> 30    Beacon Voltage 9726  Beacon etx 3832 
+ Beacon Parent -> 30    Beacon Voltage 9759  Beacon etx 3832 
+ Beacon Parent -> 10    Beacon Voltage 5665  Beacon etx 3822 
+ Beacon Parent -> 30    Beacon Voltage 9764  Beacon etx 3832 
+ Beacon Parent -> 30    Beacon Voltage 9809  Beacon etx 3832 
+ Beacon Parent -> 10    Beacon Voltage 5637  Beacon etx 3822 
+ Beacon Parent -> 30    Beacon Voltage 9732  Beacon etx 3832 
+ Beacon Parent -> 10    Beacon Voltage 5635  Beacon etx 3822 
+ Beacon Parent -> 30    Beacon Voltage 9762  Beacon etx 3832 
+ Beacon Parent -> 30    Beacon Voltage 9733  Beacon etx 3832 
+ Beacon Parent -> 10    Beacon Voltage 5654  Beacon etx 3822 
+ Beacon Parent -> 10    Beacon Voltage 5672  Beacon etx 3822 
+ Beacon Parent -> 30    Beacon Voltage 9766  Beacon etx 3832 
+ Beacon Parent -> 10    Beacon Voltage 17977  Beacon etx 3852 
+ Beacon Parent -> 30    Beacon Voltage 9792  Beacon etx 3832 
+ Beacon Parent -> 30    Beacon Voltage 22082  Beacon etx 3862 
+ Beacon Parent -> 10    Beacon Voltage 18006  Beacon etx 3852 
+
+@ CTP # No: 420 # Best 20 # BestVolt: 22082 # PathVolt: 16494 # BestEtx: 3862 # PathEtx: -1
+ Beacon Parent -> 30    Beacon Voltage 22132  Beacon etx 3862 
+ Beacon Parent -> 30    Beacon Voltage 22149  Beacon etx 3862 
+ Beacon Parent -> 10    Beacon Voltage 18021  Beacon etx 3852 
+ Beacon Parent -> 30    Beacon Voltage 22132  Beacon etx 3862 
+ Beacon Parent -> 10    Beacon Voltage 30343  Beacon etx 3882 
+ Beacon Parent -> 10    Beacon Voltage 30393  Beacon etx 3882 
+ Beacon Parent -> 30    Beacon Voltage -31008  Beacon etx 3892 
+ Beacon Parent -> 10    Beacon Voltage 30402  Beacon etx 3882 
+ Beacon Parent -> 10    Beacon Voltage 30408  Beacon etx 3882 
+ Beacon Parent -> 30    Beacon Voltage -31018  Beacon etx 3892 
+ Beacon Parent -> 10    Beacon Voltage 30395  Beacon etx 3882 
+ Beacon Parent -> 30    Beacon Voltage -31004  Beacon etx 3892 
+ Beacon Parent -> 30    Beacon Voltage -31031  Beacon etx 3892 
+ Beacon Parent -> 30    Beacon Voltage -31011  Beacon etx 3892 
+ Beacon Parent -> 10    Beacon Voltage 30381  Beacon etx 3882 
+ Beacon Parent -> 30    Beacon Voltage -31027  Beacon etx 3892 
+
+@ CTP # No: 440 # Best 20 # BestVolt: -31027 # PathVolt: 16494 # BestEtx: 3892 # PathEtx: -1
+ Beacon Parent -> 30    Beacon Voltage -18701  Beacon etx 3924 
+ Beacon Parent -> 10    Beacon Voltage -22828  Beacon etx 3915 
+ Beacon Parent -> 30    Beacon Voltage -18686  Beacon etx 3926 
+ Beacon Parent -> 10    Beacon Voltage -22823  Beacon etx 3915 
+ Beacon Parent -> 30    Beacon Voltage -18702  Beacon etx 3922 
+ Beacon Parent -> 10    Beacon Voltage -22827  Beacon etx 3916 
+ Beacon Parent -> 30    Beacon Voltage -18685  Beacon etx 3926 
+ Beacon Parent -> 10    Beacon Voltage -10435  Beacon etx 3947 
+ Beacon Parent -> 10    Beacon Voltage -10421  Beacon etx 3946 
+ Beacon Parent -> 10    Beacon Voltage -10484  Beacon etx 3946 
+ Beacon Parent -> 30    Beacon Voltage -6310  Beacon etx 3956 
+ Beacon Parent -> 10    Beacon Voltage -10471  Beacon etx 3946 
+ Beacon Parent -> 10    Beacon Voltage -10487  Beacon etx 3946 
+ Beacon Parent -> 30    Beacon Voltage -6357  Beacon etx 3956 
+ Beacon Parent -> 30    Beacon Voltage -6366  Beacon etx 3956 
+ Beacon Parent -> 10    Beacon Voltage -10488  Beacon etx 3946 
+ Beacon Parent -> 30    Beacon Voltage -6383  Beacon etx 3956 
+
+@ CTP # No: 460 # Best 20 # BestVolt: -6383 # PathVolt: 16494 # BestEtx: 3956 # PathEtx: -1
+ Beacon Parent -> 30    Beacon Voltage -6363  Beacon etx 3956 
+ Beacon Parent -> 10    Beacon Voltage 1872  Beacon etx 3976 
+ Beacon Parent -> 10    Beacon Voltage 1874  Beacon etx 3976 
+ Beacon Parent -> 30    Beacon Voltage 5973  Beacon etx 3986 
+ Beacon Parent -> 10    Beacon Voltage 1870  Beacon etx 3976 
+ Beacon Parent -> 30    Beacon Voltage 6002  Beacon etx 3986 
+ Beacon Parent -> 10    Beacon Voltage 1916  Beacon etx 3976 
+ Beacon Parent -> 30    Beacon Voltage 6017  Beacon etx 3986 
+ Beacon Parent -> 10    Beacon Voltage 1900  Beacon etx 3976 
+ Beacon Parent -> 30    Beacon Voltage 6044  Beacon etx 3986 
+ Beacon Parent -> 10    Beacon Voltage 1875  Beacon etx 3976 
+ Beacon Parent -> 30    Beacon Voltage 5972  Beacon etx 3986 
+ Beacon Parent -> 10    Beacon Voltage 1909  Beacon etx 3976 
+ Beacon Parent -> 30    Beacon Voltage 6047  Beacon etx 3986 
+ Beacon Parent -> 10    Beacon Voltage 14330  Beacon etx 4006 
+ Beacon Parent -> 30    Beacon Voltage 18436  Beacon etx 4016 
+ Beacon Parent -> 10    Beacon Voltage 26695  Beacon etx 4036 
+ Beacon Parent -> 30    Beacon Voltage 30796  Beacon etx 4046 
+ Beacon Parent -> 10    Beacon Voltage -26460  Beacon etx 4066 
+ Beacon Parent -> 30    Beacon Voltage -22326  Beacon etx 4076 
+ Beacon Parent -> 10    Beacon Voltage -14089  Beacon etx 4096 
+ Beacon Parent -> 30    Beacon Voltage -9985  Beacon etx 4106 
+ Beacon Parent -> 10    Beacon Voltage -14084  Beacon etx 4096 
+ Beacon Parent -> 30    Beacon Voltage -9960  Beacon etx 4106 
+ Beacon Parent -> 30    Beacon Voltage 2415  Beacon etx 4136 
+ Beacon Parent -> 30    Beacon Voltage 2439  Beacon etx 4140 
+ Beacon Parent -> 30    Beacon Voltage 2422  Beacon etx 4140 
+ Beacon Parent -> 30    Beacon Voltage 2455  Beacon etx 4140 
+ Beacon Parent -> 30    Beacon Voltage 2431  Beacon etx 4140 
+ Beacon Parent -> 30    Beacon Voltage 2452  Beacon etx 4140 
+ Beacon Parent -> 30    Beacon Voltage 2426  Beacon etx 4140 
+ Beacon Parent -> 30    Beacon Voltage 2429  Beacon etx 4212 
+
+@ CTP # No: 480 # Best 20 # BestVolt: 2429 # PathVolt: 16494 # BestEtx: 4212 # PathEtx: -1
+ Beacon Parent -> 30    Beacon Voltage 2450  Beacon etx 4212 
+ Beacon Parent -> 30    Beacon Voltage 2448  Beacon etx 4212 
+ Beacon Parent -> 30    Beacon Voltage 2454  Beacon etx 4212 
+ Beacon Parent -> 30    Beacon Voltage 2443  Beacon etx 4212 
+ Beacon Parent -> 30    Beacon Voltage 2421  Beacon etx 4212 
+ Beacon Parent -> 30    Beacon Voltage 2434  Beacon etx 4212 
+ Beacon Parent -> 30    Beacon Voltage 2430  Beacon etx 4212 
+ Beacon Parent -> 30    Beacon Voltage 2410  Beacon etx 4212 
+ Beacon Parent -> 30    Beacon Voltage 2440  Beacon etx 4212 
+ Beacon Parent -> 30    Beacon Voltage 2423  Beacon etx 4212 
+ Beacon Parent -> 30    Beacon Voltage 2426  Beacon etx 4212 
+ Beacon Parent -> 30    Beacon Voltage 2433  Beacon etx 4212 
+ Beacon Parent -> 30    Beacon Voltage 2447  Beacon etx 4606 
+ Beacon Parent -> 30    Beacon Voltage 2379  Beacon etx 4646 
+ Beacon Parent -> 30    Beacon Voltage 2396  Beacon etx 4646 
+ Beacon Parent -> 30    Beacon Voltage 2371  Beacon etx 4706 
+ Beacon Parent -> 30    Beacon Voltage 2411  Beacon etx 4706 
+ Beacon Parent -> 30    Beacon Voltage 2377  Beacon etx 4706 
+ Beacon Parent -> 30    Beacon Voltage 2399  Beacon etx 4706 
+ Beacon Parent -> 30    Beacon Voltage 2405  Beacon etx 4706 
+ Beacon Parent -> 30    Beacon Voltage 2420  Beacon etx 4886 
+ Beacon Parent -> 30    Beacon Voltage 2417  Beacon etx 4886 
+ Beacon Parent -> 30    Beacon Voltage 2374  Beacon etx 4886 
+ Beacon Parent -> 30    Beacon Voltage 2403  Beacon etx 5006 
+ Beacon Parent -> 30    Beacon Voltage 2390  Beacon etx 5006 
+ Beacon Parent -> 30    Beacon Voltage 2400  Beacon etx 5006 
+ Beacon Parent -> 30    Beacon Voltage 2377  Beacon etx 5006 
+ Beacon Parent -> 30    Beacon Voltage 2389  Beacon etx 5006 
+ Beacon Parent -> 30    Beacon Voltage 2385  Beacon etx 5076 
+ Beacon Parent -> 30    Beacon Voltage 2385  Beacon etx 4667 
+ Beacon Parent -> 30    Beacon Voltage 2410  Beacon etx 4667 
+ Beacon Parent -> 30    Beacon Voltage 2395  Beacon etx 4667 
+ Beacon Parent -> 30    Beacon Voltage 2393  Beacon etx 4667 
+ Beacon Parent -> 30    Beacon Voltage 2413  Beacon etx 4667 
+ Beacon Parent -> 30    Beacon Voltage 2385  Beacon etx 4397 
+ Beacon Parent -> 30    Beacon Voltage 2416  Beacon etx 4397 
+ Beacon Parent -> 30    Beacon Voltage 2377  Beacon etx 4397 
+ Beacon Parent -> 30    Beacon Voltage 2388  Beacon etx 4397 
+ Beacon Parent -> 10    Beacon Voltage -1681  Beacon etx 4373 
+ Beacon Parent -> 30    Beacon Voltage 2426  Beacon etx 4383 
+ Beacon Parent -> 30    Beacon Voltage 2438  Beacon etx 4383 
+ Beacon Parent -> 30    Beacon Voltage 2424  Beacon etx 4383 
+ Beacon Parent -> 30    Beacon Voltage 2405  Beacon etx 4337 
+ Beacon Parent -> 30    Beacon Voltage 2398  Beacon etx 4337 
+ Beacon Parent -> 30    Beacon Voltage 2392  Beacon etx 4337 
+ Beacon Parent -> 30    Beacon Voltage 2391  Beacon etx 4266 
+ Beacon Parent -> 30    Beacon Voltage 2414  Beacon etx 4266 
+ Beacon Parent -> 30    Beacon Voltage 2423  Beacon etx 4266 
+ Beacon Parent -> 30    Beacon Voltage 2379  Beacon etx 4266 
+ Beacon Parent -> 30    Beacon Voltage 2390  Beacon etx 4266 
+ Beacon Parent -> 30    Beacon Voltage 2432  Beacon etx 4285 
+ Beacon Parent -> 30    Beacon Voltage 2441  Beacon etx 4285 
+ Beacon Parent -> 30    Beacon Voltage 2437  Beacon etx 4285 
+ Beacon Parent -> 10    Beacon Voltage -1695  Beacon etx 4234 
+ Beacon Parent -> 30    Beacon Voltage 2425  Beacon etx 4244 
+ Beacon Parent -> 30    Beacon Voltage 2443  Beacon etx 4244 
+ Beacon Parent -> 30    Beacon Voltage 2428  Beacon etx 4206 
+ Beacon Parent -> 30    Beacon Voltage 2426  Beacon etx 4206 
+ Beacon Parent -> 30    Beacon Voltage 2424  Beacon etx 4206 
+ Beacon Parent -> 30    Beacon Voltage 2416  Beacon etx 4206 
+ Beacon Parent -> 30    Beacon Voltage 2416  Beacon etx 4206 
+ Beacon Parent -> 30    Beacon Voltage 2439  Beacon etx 4206 
+ Beacon Parent -> 30    Beacon Voltage 2459  Beacon etx 4219 
+ Beacon Parent -> 30    Beacon Voltage 2413  Beacon etx 4219 
+ Beacon Parent -> 30    Beacon Voltage 2454  Beacon etx 4219 
+ Beacon Parent -> 30    Beacon Voltage 2417  Beacon etx 4208 
+ Beacon Parent -> 30    Beacon Voltage 2373  Beacon etx 4208 
+ Beacon Parent -> 30    Beacon Voltage 2413  Beacon etx 4208 
+ Beacon Parent -> 30    Beacon Voltage 2376  Beacon etx 4244 
+ Beacon Parent -> 10    Beacon Voltage -1721  Beacon etx 4223 
+ Beacon Parent -> 10    Beacon Voltage -1712  Beacon etx 4204 
+ Beacon Parent -> 30    Beacon Voltage 2387  Beacon etx 4214 
+ Beacon Parent -> 30    Beacon Voltage 2404  Beacon etx 4214 
+
+@ CTP # No: 500 # Best 20 # BestVolt: 2404 # PathVolt: 16494 # BestEtx: 4214 # PathEtx: -1
+ Beacon Parent -> 30    Beacon Voltage 2429  Beacon etx 4214 
+ Beacon Parent -> 30    Beacon Voltage 2383  Beacon etx 4214 
+ Beacon Parent -> 30    Beacon Voltage 2395  Beacon etx 4214 
+ Beacon Parent -> 30    Beacon Voltage 14737  Beacon etx 4233 
+ Beacon Parent -> 30    Beacon Voltage 14745  Beacon etx 4233 
+ Beacon Parent -> 30    Beacon Voltage 14724  Beacon etx 4233 
+ Beacon Parent -> 30    Beacon Voltage 14738  Beacon etx 4233 
+ Beacon Parent -> 30    Beacon Voltage 14736  Beacon etx 4233 
+ Beacon Parent -> 10    Beacon Voltage 22974  Beacon etx 4268 
+ Beacon Parent -> 10    Beacon Voltage 22940  Beacon etx 4266 
+ Beacon Parent -> 30    Beacon Voltage 27080  Beacon etx 4276 
+ Beacon Parent -> 10    Beacon Voltage 22947  Beacon etx 4268 
+ Beacon Parent -> 30    Beacon Voltage 27052  Beacon etx 4278 
+ Beacon Parent -> 30    Beacon Voltage 27085  Beacon etx 4278 
+ Beacon Parent -> 10    Beacon Voltage 22955  Beacon etx 4264 
+ Beacon Parent -> 30    Beacon Voltage -26048  Beacon etx 4355 
+ Beacon Parent -> 30    Beacon Voltage -26045  Beacon etx 4355 
+
+@ CTP # No: 520 # Best 20 # BestVolt: -26045 # PathVolt: 16494 # BestEtx: 4355 # PathEtx: -1
+ Beacon Parent -> 30    Beacon Voltage -26063  Beacon etx 4482 
+ Beacon Parent -> 30    Beacon Voltage -26091  Beacon etx 4482 
+ Beacon Parent -> 30    Beacon Voltage -26077  Beacon etx 4769 
+ Beacon Parent -> 30    Beacon Voltage -26061  Beacon etx 4769 
